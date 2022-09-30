@@ -18,4 +18,4 @@ Instala las dependencias de PHP e inicia el servidor.
 https://github.com/pcarcal254/PHP-LOGIN-REGISTRO
 ```
 
-> Nota: Edita el fichero _datos/usuarios.txt_ siempre de la siguiente forma "[usuario];[password];[rol]".
+> Nota: Edita el fichero _datos/usuarios.txt_ siempre se debe escribir de la siguiente forma "[usuario];[password];[rol]".
