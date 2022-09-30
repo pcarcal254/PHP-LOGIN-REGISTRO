@@ -37,6 +37,8 @@
                                 $stringTabla .= "<tr>
                                     <td>".$arrayAlumnos[$i][0]."</td>
                                     <td>".$arrayAlumnos[$i][1]."</td>
+                                    <td><input type='button' id='botonBorrar".$i."' style='background-color: #f44336;' value='BORRAR'></td>
+                                    <td><input type='button' id='botonEditar".$i."' style='background-color: #008CBA;' value='EDITAR'></td>
                                 </tr>";
                             }
                             
