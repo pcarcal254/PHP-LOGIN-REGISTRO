@@ -5,8 +5,8 @@
 ## Características
 
 - Registra usuarios
-- Accede mediante tu suario
-- Bloquea la opcion de añadir usuarios dependiendo del rol
+- Accede mediante tu usuario
+- Bloquea la opcion "Añadir usuarios" dependiendo del rol
 
 ## Instalación
 
